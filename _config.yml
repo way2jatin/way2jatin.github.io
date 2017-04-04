@@ -1,0 +1,25 @@
+# Site settings
+title: Jatin Jha
+tagline: SDE, Android Developer, Git enthusiast
+
+url: "" # the base hostname & protocol for your site
+
+# Used for theme in head.html, cannot be used in Stylus files
+color-primary: "#00bcd4"
+
+# contact
+author:
+  name: Jatin Jha
+  url: http://github.com/way2jatin
+
+twitter_username: jatinjha
+github_username:  way2jatin
+googleplus_username: JatinJhaAFC
+linkedin_username: jatinjha
+resume: JatinJhaCV.pdf
+
+# Others
+markdown: kramdown
+
+# Exclude Stylus files, nodemodules, and gulpfile
+exclude: [node_modules, gulpfile.js, styl, npm-debug.log, Gemfile, Gemfile.lock, LICENSE, README.md, package.json]
