@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.airasia.mobile",
+    "sha256_cert_fingerprints":
+    ["BF:FC:5B:6E:43:F0:55:90:D6:6B:4A:AA:C0:D2:87:1B:B6:8A:7F:E2:F5:7C:4B:60:CD:EC:7F:DE:5C:0E:DF:45"]
+  }
+}]
